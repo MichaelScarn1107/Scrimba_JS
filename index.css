@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid grey;
+    background: #0284C7;
+    border-radius: 5px;
+}
+
+h3{
+    font-size: 40px;
+    font-weight: 20px;
+    color: whitesmoke
+}
+#home-score{
+    background-color: black;
+    height: 155px;
+    width: 120px;
+}
+
+h2 {
+font-family: ;
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+
+/* or 141% */
+text-align: center;
+
+color: #F94F6D;
+}
